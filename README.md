@@ -1,7 +1,9 @@
 # PayComputeApp
 </br></br>
 <h3>System Structure:</h3>
-<img src="https://user-images.githubusercontent.com/44200835/67096204-57995100-f203-11e9-821d-267d17439f96.png>
+<img src="https://user-images.githubusercontent.com/44200835/67097432-d1cad500-f205-11e9-8e16-8b1ef90573ed.png>
+
+<img src="https://user-images.githubusercontent.com/44200835/67093730-0470cf80-f1fe-11e9-9149-708a4040ca1a.png">
 
 </br></br></br>
 <h3>How to run this application</h3>
