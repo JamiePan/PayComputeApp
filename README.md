@@ -1,5 +1,5 @@
 # PayComputeApp
-</br></br>
+
 <h3>System Structure:</h3>
 <img src="https://user-images.githubusercontent.com/44200835/67097432-d1cad500-f205-11e9-8e16-8b1ef90573ed.png>
 
